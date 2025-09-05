@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G5
+- Favorite Language: Java
+- One Git Tip Learned: git status shows the state of your changes.
+- GitHub: @ivebaan
